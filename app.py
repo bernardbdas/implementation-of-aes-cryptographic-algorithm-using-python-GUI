@@ -268,7 +268,7 @@ if __name__ == '__main__':
     root = Tk()
     root.title("Cryptography System")
     root.geometry("500x500")
-    root.iconbitmap('icon.ico')
+    #root.iconbitmap('icon.ico')
     root.pack_propagate(False)
     root.resizable(0, 0)
 
